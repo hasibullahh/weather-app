@@ -1,6 +1,6 @@
 # Simple Weather App
 
-![Project Screenshot](https://github.com/hasibullahh/weather-app/blob/main/images/weather-app.png)
+![Project Screenshot](https://github.com/hasibullahh/weather-app/blob/main/img/weather-app.png)
 
 ## Overview
 
